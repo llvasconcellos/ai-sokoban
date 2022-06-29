@@ -21,6 +21,9 @@ Para modelar o problema foi implementado uma entrada por forma de arquivo de tex
 Foi desenvolvida uma aplicação em python usando janelas onde é possível carregar o arquivo de entrada do labirinto onde após sua leitura a aplicação considera o resultado desta leitura como o estado inicial.
 É possível ver o algoritmo em ação no seguinte vídeo: https://youtu.be/DDCz2QoXH-A
 
+![screenshot1](/screenshots/screenshot1.png)
+![screenshot2](/screenshots/screenshot2.png)
+![screenshot3](/screenshots/screenshot3.png)
 Fig. 1 – Screenshots dos movimentos na resolução do problema
 
 Os estados são representados por nós em uma árvore de busca onde cada nó contém as posições do agente e caixas no plano cartesiano (labirinto), além dos custos e direção.
